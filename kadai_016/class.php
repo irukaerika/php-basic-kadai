@@ -62,16 +62,11 @@
     // インスタンス$userの各プロパティの値を出力する
     print_r($animal);
     ?>
+    
   <?php
     $food->show_price();
     $animal->show_height();
   ?>
-
-
-
-  
-
-
   </p>
 
 </body>
