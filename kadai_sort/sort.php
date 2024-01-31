@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>PHP基礎編</title>
+    <title>ソート関数の実装</title>
 </head>
 
 <body>
